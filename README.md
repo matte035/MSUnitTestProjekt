@@ -7,7 +7,7 @@ Jag har valt att testa "Deposit metoden", "CreateNewBankAccount, "WithdrawMoney 
 Vad jag tror kan gå fel i dessa kodblock som jag skall göra tester på:
 
 Deposit metoden :
-Om kunden inte har valt rätt valuta så fungerar inte koden.
+Om kunden skriver in ett konto som inte finns eller skriver in ett negativt tal.
 
 CreateNewBankAccount metoden:
 Om du vill ha ditt konto i en utländsvaluta som inte finns så går det inte att skapa kontot.
